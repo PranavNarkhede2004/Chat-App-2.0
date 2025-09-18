@@ -1,0 +1,4 @@
+Always Write the functions with capital letters only.
+If you are using the vite then file must be saved as .jsx
+If you are using the create-react then you can use .js or .jsx no problem.
+ We can return only one component by a jsx function so it's good to wrap in <></> or <div></div>
